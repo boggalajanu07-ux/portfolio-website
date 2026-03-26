@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+
+    <h1>Hi, I'm Jahnavi</h1>
+    <p>Aspiring Software Developer</p>
+    <h2>About Me</h2>
+    <p>Final Year BCA (AI) student, learning Python and building projects.</p>
+    <h2>Projects</h2>
+    <ul>
+        <li>Python Calculator</li>
+        <li>To-Do List</li>
+        <li>Number Guessing Game</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: boggalajanu07@gmail.com</p>
+
+</body>
+</html>
